@@ -4,51 +4,41 @@
 - 2019.09 ~ 2019.12
 
 ### Development Environment
-- Language
+- Language 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-- Framework
+<img src="https://img.shields.io/badge/JSP-3766AB?style=flat-square&logo=JSP&logoColor=white"/></a>
+- Database 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><br/>
+- Tool 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
-- Tool
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 
 ### Participant
-- 6명
+- 2명
 
 ### Part
-- Pycharm의 **회원가입, 로그인, 로그아웃** 기능
-- **연락처** 및 **스케줄 추가, 편집, 삭제** 기능
-- 연락처 **정렬** 기능
-- 오늘이 있는 달의 **달력** 표시
-- **포인트 충전** 기능 및 **누적내역** 표시
+- **레이아웃** 디자인 및 만들기
+- **Fragment**로 화면 분할
+- **회원가입** 및 **로그인** 기능
+- **SQLite**를 활용하여 데이터 연동 및 저장
+- **AsyncTask** 및 **핸들러** 기능
+- 드라이브 코스를 클릭하면 **구글 지도**로 이동
 
-- **Python 웹 표준 라이브러리**에 대해 이애하게 됨.
-- Django의 웹 프레임워크인 **MVT 패턴**을 활용할 수 있음.
-- Django의 **Admin 사이트**를 사용할 수 있음.
-- Django Python 쉘로 **데이터 생성, 조회, 수정, 삭제**할 수 있음.
-- Django의 **폼** 기능과 **클래스형 뷰**를 사용할 수 있음.
+- **AsyncTask** 및 **SQLite**로 Eclipse와 연동하여 회원관리를 할 수 있음.
+- 다양한 **Listener**를 사용하여 Click, View, Array 기능을 사용할 수 있음.
+- **Adapter**로 여러 코드를 연결하고 홈화면을 선택할 수 있음.
+- **Activity를 사용하여** 글꼴크기, 레이아웃 배치 등 **디자인 요소**에 대해 생각하게 됨.
 
 ### Features
-캡스톤디자인I 과목에서 배운 내용으로 진행한 프로젝트입니다. 이 웹은 성인이 된 후 많아진 경조사를 간편하게 챙길 수 있도록 도와주는 홈페이지입니다. 회원가입, 로그인, 로그아웃을 할 수 있습니다. 로그인을 한 후 이름, 연락처, 소속 등을 저장할 수 있는 주소록을 가나다순으로 정렬할 수 있습니다. 캘린더로 스케줄을 확인할 수 있고 구체적으로 스케줄을 등록할 수 있습니다. 현금을 포인트화하여 부담없이 경조사 비용을 챙길 수 있습니다. 기념일을 챙길 수 없는 소외계층을 위해 기부를 할 수 있는 페이지도 마련되어 있습니다. 
+모바일프로그래밍II 과목에서 배운 내용으로 진행한 프로젝트입니다. 이 앱은 해외에서 드라이브를 즐기고 싶을 때 참고할 수 있는 앱입니다. 미국에서 드라이브 할 계획을 수립하고 있는데 운전할 때 필요한 준비물, 미국의 도로교통법, 드라이브 코스 등 준비해야 할 것이 많았고, 저와 같은 고민을 하는 사람들이 많을 것 같다고 생각하여 드라이브 앱을 만들게 되었습니다. 앱에 처음 접속하면 로고가 뜨고 로그인과 회원가입을 할 수 있는 화면이 뜹니다. 로그인을 하면 여행하고 싶은 나라를 선택한 후 각 나라에서 운전할 때 필요한 준비물, 각 나라별 도로교통법 및 드라이브 코스를 나타내는 탭을 통해 정보를 알려줍니다. 
 
 ### Screenshot
-![image](https://user-images.githubusercontent.com/86348868/148521225-7e395179-6cca-4111-b5a2-06dd4bc4c920.png)
-![image](https://user-images.githubusercontent.com/86348868/148521732-3294ca0f-1759-497d-bba6-4521f29624b9.png)
-![image](https://user-images.githubusercontent.com/86348868/148521752-a2e327d9-67cb-4177-9132-6cf41f2331e6.png)
-![image](https://user-images.githubusercontent.com/86348868/148521278-ccdc41d2-0a73-46e1-90c7-2d567a3911d4.png)
-![image](https://user-images.githubusercontent.com/86348868/148521328-be6a6dd4-7efc-469e-b78f-385a77390e39.png)
-![image](https://user-images.githubusercontent.com/86348868/148521356-9d65fea1-5cb5-4d2e-a7d0-3000a7b1c5d6.png)
-![image](https://user-images.githubusercontent.com/86348868/148521389-c1bd2b3c-617c-4338-97ed-759d592b086e.png)
-![image](https://user-images.githubusercontent.com/86348868/148521418-3fedb504-6713-446c-85f2-0227f189bee4.png)
-![image](https://user-images.githubusercontent.com/86348868/148521447-f91daee6-bf5a-43af-8c9b-2e36ecb0cc90.png)
-![image](https://user-images.githubusercontent.com/86348868/148521478-b3c2436f-bbd1-4812-88bd-8f72583125e5.png)
-![image](https://user-images.githubusercontent.com/86348868/148521512-09a14533-6e27-480e-b8c6-99cb13dd3a18.png)
-![image](https://user-images.githubusercontent.com/86348868/148521541-66309a06-a6c9-4ef8-8726-dfe2025575fa.png)
-![image](https://user-images.githubusercontent.com/86348868/148521561-de4c8e71-8a9a-4bb2-abf7-b5f9af2170d0.png)
-![image](https://user-images.githubusercontent.com/86348868/148521602-4b1317cf-f568-40ea-a409-91cd992ef620.png)
-![image](https://user-images.githubusercontent.com/86348868/148521637-073cb593-fd40-420c-be32-1109c2d35ee5.png)
-![image](https://user-images.githubusercontent.com/86348868/148521660-dfeddf6c-3826-43ec-8030-4c8867f181da.png)
-![image](https://user-images.githubusercontent.com/86348868/148521695-20fca5a9-8f94-43ee-9163-c6c69a176406.png)
-![image](https://user-images.githubusercontent.com/86348868/148521714-3ce9c1e3-5919-49fa-ae0a-0072e9e6f991.png)
-
+![image](https://user-images.githubusercontent.com/86348868/148526157-0dd91283-24e3-4908-ba98-c8d0bd609550.png)
+![image](https://user-images.githubusercontent.com/86348868/148526178-8bb9e5bd-7b5b-4d7a-ab5e-124786b6ac68.png)
+![image](https://user-images.githubusercontent.com/86348868/148526195-70ed1731-1195-418b-9bd1-499be8fb3af1.png)
+![image](https://user-images.githubusercontent.com/86348868/148526213-5b9ba502-53a0-4dce-a511-668b48e4a7cd.png)
+![image](https://user-images.githubusercontent.com/86348868/148526232-4a52d048-2000-449f-8dbf-c7d8fcfdb2e1.png)
+![image](https://user-images.githubusercontent.com/86348868/148526246-eb6b8c4f-9575-4217-ae0f-1ec0554487dd.png)
+![image](https://user-images.githubusercontent.com/86348868/148526268-43f36d8a-01a6-48f8-a5e8-e9c034e97fea.png)
 
 
