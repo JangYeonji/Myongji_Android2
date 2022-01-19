@@ -21,17 +21,12 @@
 - 2명
 
 ### Part
-- **레이아웃** 디자인 및 만들기
-- **Fragment**로 화면 분할
+- **Activity**를 사용한 레이아웃 **디자인** 구성
 - **회원가입** 및 **로그인** 기능
-- **SQLite**를 활용하여 데이터 연동 및 저장
+- **SQLite** 및 **MySQL**을 활용하여 데이터 연동 및 저장
 - **AsyncTask** 및 **핸들러** 기능
-- 드라이브 코스를 클릭하면 **구글 지도**로 이동
-
-- **AsyncTask** 및 **SQLite**로 Eclipse와 연동하여 회원관리를 할 수 있음.
-- 다양한 **Listener**를 사용하여 Click, View, Array 기능을 사용할 수 있음.
-- **Adapter**로 여러 코드를 연결하고 홈화면을 선택할 수 있음.
-- **Activity를 사용하여** 글꼴크기, 레이아웃 배치 등 **디자인 요소**에 대해 생각하게 됨.
+- 버튼을 통해 **구글 지도**로 이동
+- **Listener**를 사용하여 Click, View, Array 기능을 사용
 
 ### Screenshot
 ![image](https://user-images.githubusercontent.com/86348868/148526157-0dd91283-24e3-4908-ba98-c8d0bd609550.png)
