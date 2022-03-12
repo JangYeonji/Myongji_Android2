@@ -21,12 +21,13 @@
 - 2명
 
 ### Part
-- **Activity**를 사용한 레이아웃 **디자인** 구성
-- **회원가입** 및 **로그인** 기능
-- **SQLite** 및 **MySQL**을 활용하여 데이터 연동 및 저장
-- **AsyncTask** 및 **핸들러** 기능
-- 버튼을 통해 **구글 지도**로 이동
-- **Listener**를 사용하여 Click, View, Array 기능을 사용
+- xml 태그로 Layout(Linear, Constraint ScrollView) 구현
+- 비동기 통신을 통한 로그인 및 회원가입
+- 아파치 톰캣을 이용하여 안드로이드(JAVA)와 이클립스(JSP) 연동
+- 구글 지도 API 활용
+- Listener(OnClick,  OnItemSelected) 구현
+- SQLiteOpenHelper를 이용한 DB 처리
+- Thread를 이용한 로딩 처리
 
 ### Screenshot
 ![image](https://user-images.githubusercontent.com/86348868/148526157-0dd91283-24e3-4908-ba98-c8d0bd609550.png)
