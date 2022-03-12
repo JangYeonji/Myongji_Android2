@@ -30,12 +30,11 @@
 - Thread를 이용한 로딩 처리
 
 ### Screenshot
-![image](https://user-images.githubusercontent.com/86348868/148526157-0dd91283-24e3-4908-ba98-c8d0bd609550.png)
-![image](https://user-images.githubusercontent.com/86348868/148526178-8bb9e5bd-7b5b-4d7a-ab5e-124786b6ac68.png)
-![image](https://user-images.githubusercontent.com/86348868/148526195-70ed1731-1195-418b-9bd1-499be8fb3af1.png)
-![image](https://user-images.githubusercontent.com/86348868/148526213-5b9ba502-53a0-4dce-a511-668b48e4a7cd.png)
-![image](https://user-images.githubusercontent.com/86348868/148526232-4a52d048-2000-449f-8dbf-c7d8fcfdb2e1.png)
-![image](https://user-images.githubusercontent.com/86348868/148526246-eb6b8c4f-9575-4217-ae0f-1ec0554487dd.png)
-![image](https://user-images.githubusercontent.com/86348868/148526268-43f36d8a-01a6-48f8-a5e8-e9c034e97fea.png)
-
+![image](https://user-images.githubusercontent.com/86348868/158012141-1dd8071c-60e2-4758-a839-e91f160da283.png)
+![image](https://user-images.githubusercontent.com/86348868/158012066-dfa631fb-ab87-47f3-a95b-549d7ff89e3e.png)
+![image](https://user-images.githubusercontent.com/86348868/158012075-c53590cd-ed7f-45f8-9d7b-e572416bfaa7.png)
+![image](https://user-images.githubusercontent.com/86348868/158012046-f76aefc0-fddd-49af-870d-de7b8d991c20.png)
+![image](https://user-images.githubusercontent.com/86348868/158012205-4b6f7f4a-0bca-46c3-9491-953bc62153f4.png)
+![image](https://user-images.githubusercontent.com/86348868/158012021-12feeb23-33ae-4681-b6e5-2394e73be9d3.png)
+![image](https://user-images.githubusercontent.com/86348868/158012012-6b1a6859-0a83-43e3-a97f-9e2c7694a150.png)
 
