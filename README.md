@@ -21,13 +21,16 @@
 - 2명
 
 ### Part
-- xml 태그로 Layout(Linear, Constraint ScrollView) 구현
-- 비동기 통신을 통한 로그인 및 회원가입
-- 아파치 톰캣을 이용하여 안드로이드(JAVA)와 이클립스(JSP) 연동
-- 구글 지도 API 활용
-- Listener(OnClick,  OnItemSelected) 구현
-- SQLiteOpenHelper를 이용한 DB 처리
-- Thread를 이용한 로딩 처리
+- **AsyncTask**를 이용한 로그인 및 회원가입
+- 아파치 톰캣을 통해 **안드로이드(Java)와 이클립스(JSP) 연동**
+- 관리할 데이터가 많지 않아 **SQLite**를 이용해서 DB 처리
+- **Thread**를 이용한 로고 로딩 처리
+- xml 태그로 **Layout**(Linear, Constraint ScrollView) 구현
+- Java의 **Listener**(OnClick, OnItemSelected) 구현
+
+###
+![image](https://user-images.githubusercontent.com/86348868/174976477-564ed042-12df-41ca-9453-4df8d9c6cdcd.png)
+
 
 ### Screenshot
 ![image](https://user-images.githubusercontent.com/86348868/158012141-1dd8071c-60e2-4758-a839-e91f160da283.png)
